@@ -1,3 +1,11 @@
+/**
+ * rwb_test.go
+ *
+ * Copyright (c) 2021 Forest Hoffman. All Rights Reserved.
+ * License: MIT License (see the included LICENSE file) or download at
+ *     https://raw.githubusercontent.com/foresthoffman/rwb/master/LICENSE
+ */
+
 package rwb
 
 import (
